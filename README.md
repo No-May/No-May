@@ -11,7 +11,7 @@
     ┌──────────────────────────────────────────────────────┐
     │    Cybersecurity Engineer · Security Operations      │
     │             ANSSI / NIS2 / NORME ISO                 │
-    │             ᗧ · · · · · · · · THREAT                 │           
+    │                   Never Enough                       │           
     └──────────────────────────────────────────────────────┘
 ```
 
@@ -44,7 +44,7 @@ Mon terrain de jeu se situe à l'intersection **run sécurité / gouvernance** :
 
 ---
 
-## `cat stack.txt`
+## `Skills`
 
 **Sécurité réseau** `Fortinet (FortiGate / FortiManager)` `Cisco ASA` `Juniper` `Stormshield`
 
@@ -60,7 +60,7 @@ Mon terrain de jeu se situe à l'intersection **run sécurité / gouvernance** :
 
 ---
 
-## `ls certifications/`
+## `Certifications`
 
 | Certification | Domaine | Statut |
 |---|---|---|
@@ -72,7 +72,7 @@ Mon terrain de jeu se situe à l'intersection **run sécurité / gouvernance** :
 
 ---
 
-## `git log --oneline`
+## `Que fait on ici ?`
 
 Ce compte sert de vitrine technique. Les dépôts publiés sont des projets construits, pas des forks :
 
