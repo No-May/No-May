@@ -11,7 +11,7 @@
     ┌──────────────────────────────────────────────────────┐
     │    Cybersecurity Engineer · Security Operations      │
     │             ANSSI / NIS2 / NORME ISO                 │
-    │  Nantes, France                                      │
+    │      ᗧ · · · · · · · · · · · · · · · THREAT          │                            
     └──────────────────────────────────────────────────────┘
 ```
 
