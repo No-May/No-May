@@ -8,14 +8,15 @@
     ██║ ╚████║╚██████╔╝██║ ╚═╝ ██║██║  ██║   ██║
     ╚═╝  ╚═══╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝
 
-    ┌──────────────────────────────────────────────────────┐
-    │    Cybersecurity Engineer · Security Operations      │
-    │             ANSSI / NIS2 / NORME ISO                 │
-    │                   Never Enough                       │           
-    └──────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────┐
+│     Cybersecurity Engineer · Security Operations     │
+│               ANSSI / NIS2 / NORME ISO               │
+│                     Never Enough                     │
+│                                                      │
+│     ᗧ · · · · · · · · · · · · · · · ·  ᗣ ᗣ ᗣ         │
+└──────────────────────────────────────────────────────┘
 ```
 
-<!-- Badges : remplace les liens si tu veux pointer ailleurs -->
 ![Focus](https://img.shields.io/badge/focus-Security_Operations_%26_GRC-0A0A0A?style=flat-square)
 ![Env](https://img.shields.io/badge/env-Secteur_critique-1f6feb?style=flat-square)
 ![Frameworks](https://img.shields.io/badge/frameworks-ISO_27001%20%7C%20NIS2%20%7C%20RGPD-2ea043?style=flat-square)
