@@ -77,9 +77,9 @@ Mon terrain de jeu se situe à l'intersection **run sécurité / gouvernance** :
 
 Ce compte sert de vitrine technique. Les dépôts publiés sont des projets construits, pas des forks :
 
-- **Detection & hardening** — scripts et playbooks de durcissement CIS-like pour parcs Linux/Windows.
-- **Vulnerability intelligence** — outillage de traitement et de priorisation de flux CVE / CERT-FR.
-- **Lab & recherche** — environnements de détection (Wazuh / ELK) et scénarios d'attaque reproductibles.
+- **Detection & hardening** - scripts et playbooks de durcissement CIS-like pour parcs Linux/Windows.
+- **Vulnerability intelligence** - outillage de traitement et de priorisation de flux CVE / CERT-FR.
+- **Lab & recherche** - environnements de détection (Wazuh / ELK) et scénarios d'attaque reproductibles.
 
 > Les travaux liés à ma mission professionnelle ne sont pas publiés. Tout ce qui est ici est
 > construit hors contexte client, sur lab personnel.
@@ -87,8 +87,5 @@ Ce compte sert de vitrine technique. Les dépôts publiés sont des projets cons
 ```
 "Security is a process, not a product." — Bruce Schneier
 ```
-
-<img src="https://github-readme-stats.vercel.app/api?username=No-May&show_icons=true&hide_border=true&theme=dark&hide=issues" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=No-May&layout=compact&hide_border=true&theme=dark" height="150" />
 
 </div>
